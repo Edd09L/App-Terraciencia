@@ -1,0 +1,40 @@
+name: terraciencia
+description: Aplicación educativa espacial inclusiva para estudiantes con discapacidad cognitiva.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  pdf: ^3.10.8
+  printing: ^5.11.1
+  provider: ^6.1.2
+  flutter_svg: ^2.0.10+1
+  # Descomentar cuando se necesite el visor 3D (.glb):
+  # model_viewer_plus: ^1.8.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - Imagenes/
+    - assets/Imagenes/
+    - assets/images/
+    - assets/images/planets/
+    - assets/images/planetas/
+    - assets/modelos/
+    - assets/planetas/
+    - assets/insignias/
+    - Imagenes de datos curiosos/
+    - Imágenes utilizadas/
+
+

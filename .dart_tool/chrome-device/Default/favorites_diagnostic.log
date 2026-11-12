@@ -1,0 +1,32 @@
+2026-10-21 15:22:48.664: [INFO] CurrentProfilePath: C:\Users\ed09a\AppData\Local\Temp\flutter_tools.491edfcb\flutter_tools_chrome_device.e659012d\Default
+2026-10-21 15:22:48.664: [INFO] Profiles total count: 1
+2026-10-21 15:22:48.664: [INFO] Profile: name=Perfil 1 path=C:\Users\ed09a\AppData\Local\Temp\flutter_tools.491edfcb\flutter_tools_chrome_device.e659012d\Default lastActive=null
+2026-10-21 15:22:48.664: [INFO] LastUsedProfileDir: C:\Users\ed09a\AppData\Local\Temp\flutter_tools.491edfcb\flutter_tools_chrome_device.e659012d\Default
+2026-10-21 15:22:48.664: [INFO] VisibilityChanged: 0
+2026-10-21 15:22:48.733: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 15:22:48.733: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 15:22:48.733: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 15:22:48.733: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 15:22:48.881: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-21 15:22:52.254: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-21 15:22:52.273: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-21 15:22:52.292: [INFO] Primary account changed.
+2026-10-21 15:22:52.292: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-10-21 15:22:52.315: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-21 15:22:52.365: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-21 15:23:19.059: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.073: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.075: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.075: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.076: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.076: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.077: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.077: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.078: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.078: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.080: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.081: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-21 15:23:19.131: [INFO] BookmarkBarPrefChanged showBar=0 showBarNTP=0
+2026-10-21 15:23:19.233: [INFO] VisibilityChanged: 1
+2026-10-21 15:23:26.252: [INFO] Sync initialization duration: 33655ms
+2026-10-21 16:12:02.043: [INFO] BookmarksSnapshot Shutdown total=9 bar=6 other=2 mobile=0 showBar=1 showBarNTP=0

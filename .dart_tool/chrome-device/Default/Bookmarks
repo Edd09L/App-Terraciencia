@@ -1,0 +1,180 @@
+{
+   "checksum": "b1413e56bcdbecc8dd8913dfc5ae8dd5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13267582806803997",
+            "date_last_used": "0",
+            "guid": "314f6cc1-570a-47de-867b-970b25cae83f",
+            "id": "11",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://play.google.com/store",
+            "visit_count": 0
+         }, {
+            "date_added": "13264744146336424",
+            "date_last_used": "0",
+            "guid": "2648f24d-cc39-4469-87fd-2cc30fc98230",
+            "id": "12",
+            "name": "Nueva pestaña",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244349627804605",
+            "date_last_used": "13435263354822559",
+            "guid": "d73fe02e-3a03-4f88-8748-a4f58bee21c5",
+            "id": "13",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 47
+         }, {
+            "date_added": "13287973017512865",
+            "date_last_used": "13415937748066169",
+            "guid": "8bcfc1a6-ed64-43b3-87a3-f41a9e7e3b60",
+            "id": "14",
+            "name": "que significa el dia del cariño - Buscar con Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=que+significa+el+dia+del+cari%C3%B1o&bih=625&biw=1366&hl=es&sxsrf=APq-WBv_-1PqOQ-KFAHnYH5NE3B-yokf3w%3A1643498916706&ei=pM31YcXRKserwbkPw-2h6AI&ved=0ahUKEwjFs_nIjtj1AhXHVTABHcN2CC0Q4dUDCA4&uact=5&oq=que+significa+el+dia+del+cari%C3%B1o&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQRxCwAzoECCMQJzoHCCMQ6gIQJzoNCC4QxwEQowIQ6gIQJzoKCAAQsQMQgwEQQzoECAAQQzoFCAAQgAQ6CAgAELEDEIMBOggIABCABBCxAzoLCAAQgAQQsQMQgwE6CggAEIAEEIcCEBQ6DQgAEIAEEIcCEMkDEBQ6CAgAEIAEEMkDOggIIRAWEB0QHkoECEEYAEoECEYYAFC7BVjdzAFg4s8BaAJwAngDgAHUAogBwC-SAQg3LjQzLjEuMZgBAKABAbABCsgBCMABAQ&sclient=gws-wiz",
+            "visit_count": 3
+         }, {
+            "date_added": "13295123577459040",
+            "date_last_used": "0",
+            "guid": "f8bad828-d0c4-4b15-9e72-e83863ecbce7",
+            "id": "15",
+            "name": "tile.png (500×500)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://static.platzi.com/media/files/uso-y-carga-de-imagenes-en-canvas/tile.png",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13389142935674582",
+               "date_last_used": "0",
+               "guid": "9c35e7f3-044e-4f7f-b926-b1d53b16cc31",
+               "id": "17",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13389142935683771",
+               "date_last_used": "0",
+               "guid": "43239969-9d20-469b-95ad-07bc0dcaceba",
+               "id": "18",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13389203636878823",
+            "date_last_used": "0",
+            "date_modified": "13389203636878823",
+            "guid": "774e492f-eecc-4a8a-a9cf-7af836552c2e",
+            "id": "16",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13437069768396234",
+         "date_last_used": "0",
+         "date_modified": "13295123577459040",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13339957828000000",
+               "date_last_used": "0",
+               "guid": "744725b5-e828-4d65-b349-fdcb54ec2ea1",
+               "id": "8",
+               "name": "Bard",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://bard.google.com/chat/286adff723feebaa",
+               "visit_count": 0
+            } ],
+            "date_added": "13409374148343485",
+            "date_last_used": "0",
+            "date_modified": "13409374148343485",
+            "guid": "6dab90f0-6086-42c0-a2cb-35a2fb9533a9",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13409377143838760",
+               "date_last_used": "0",
+               "guid": "791d9ea2-895e-43a5-a6fc-10d6d31ce00d",
+               "id": "10",
+               "name": "Why can't I install Microsoft 365 or Office? - Microsoft Support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://support.microsoft.com/en-us/office/why-can-t-i-install-microsoft-365-or-office-bd90e1cf-371a-413d-aab4-f9c377f14ee2?wt.mc_id=OfficeCom_NoProdHelp",
+               "visit_count": 1
+            } ],
+            "date_added": "13409374148344199",
+            "date_last_used": "0",
+            "date_modified": "13409377143838760",
+            "guid": "26fda808-87bb-4d56-bd9b-af6027914e43",
+            "id": "9",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13437069768396234",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13437069768396234",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13437069768396234",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Áreas de trabajo",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCFmjIjKhAQAAEgAqGE5TelN2cnB4cHRSbUt4aytKb05DWXc9PUgDoAYJEq0BCBASqAEKHFdYTU0yRkxidlM2NkU0OWRZeCtzN1ZVOUxpbz0SJDc3NGU0OTJmLWVlY2MtNGE4YS1hOWNmLTdhZjgzNjU1MmMyZRgAIAAoADCt0Y7Q4zI45dKO0OMyQOXSjtDjMkocMTlScEZxMFQyY0RpMHp1dWRXdk1RTzdTc1NnPVofIh37WDZuSU4rTzAyTDNMSFdEK3pDbjY4N2RoejR3PWUAAAAAwj4CYAASrQEIDxKoAQocbk5pdmhmYU52OGY0RmxDRWMwRjY4VHk3YVNNPRIkZjhiYWQ4MjgtZDBjNC00YjE1LTllNzItZTgzODYzZWNiY2U3GAAgACgAMPLEoZivMTi5yqGYrzFAucqhmK8xShxKdmR4dG9FOGV5ckxZMGMzR29EVFduSEVTcWs9Wh8iHfc0aVJSK3lnMzdVemlXLzJkWWJhY3hLU3k4TkE9ZQAAAADCPgJgBRKtAQgNEqgBChxWalgxQnp2S2d2ZngwVittdmZiQzNGeWkreFE9EiRkNzNmZTAyZS0zYTAzLTRmODgtODc0OC1hNGY1OGJlZTIxYzUYACAAKAAw76CMm480OJrKoZivMUCayqGYrzFKHHNvVW56SGNqbHVBMEVGNC82aXdZbWtpejh0OD1aHyId3nBnN3F0d1BELy96Wi9rcHRiWkEwZUxjWEVNUT1l4ExPZMI+AmAFEq0BCAwSqAEKHHlERThwdzNpSE9hbVl1eGNySzdhU0VjeGJsZz0SJDI2NDhmMjRkLWNjMzktNDQ2OS04N2ZkLTJjYzMwZmM5ODIzMBgAIAAoADDwxKGYrzE4+smhmK8xQPrJoZivMUocbDE2L2Y4MlhQQmJESWhmWllGZW1uSjRCYkN3PVofIh28cVk4RU1LVXFjOE9vdjVDc1JEWXdJTStSNnFjPWUAAAAAwj4CYAUSjAEIAxKHAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkOGE0NTI4YjctYTZlNy01ZDk5LThlYzctYzYxMjRmNTNkY2NkGAAgACgAMMbIiOqHMTiFzIjqhzFAhcyI6ocxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89ZQAAAADCPgJgABKsAQgLEqcBChx2cDJIU2RuQ1hEcTNLbGxOekNzTEJ6dG5HcEE9EiQzMTRmNmNjMS01NzBhLTQ3ZGUtODY3Yi05NzBiMjVjYWU4M2YYACAAKAAw78ShmK8xOMHJoZivMUDByaGYrzFKHDZFWDdCaHpwVHFVYm15K0dKcDFrV0FZemdGbz1aHiIceFI3cFRkcVYvMm1FMzVIcjB1TUlmTmxFUEVZPWXtJLovwj4CYAUSrQEIEhKoAQocSGN6ZUtlRTM2NlphcGxXU1J5ZkwyTGpRM3NNPRIkNDMyMzk5NjktOWQyMC00NjliLTk1YWQtMDdiYzBkY2FjZWJhGAAgACgAMK/RjtDjMjir047Q4zJAq9OO0OMyShwwRXIySjYzak9zczNvRDd5TnZWUGFDU1ZETjQ9Wh8iHadLT0UzK2NqSnR2Szdrcjg3THcvWFdEMXlwNWs9ZQAAAADCPgJgBRKMAQgBEocBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlZTQ0ZjI3ZS01ODUzLTU0OGUtYWMwOS01ZGJlZTA2ZWY3ODEYACAAKAAwwMiI6ocxOMLKiOqHMUDCyojqhzFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1lAAAAAMI+AmAAEqwBCAoSpwEKHFlTcVJydXBIbFBIckgvLys1bzQ1ZlhzUTFJbz0SJDc5MWQ5ZWEyLTg5NWUtNDNhNS1hNmZjLTEwZDZkMzFjZTAwZBgAIAAoADDH28vjrjM4mt7L464zQJrey+OuM0ocVFd1dTQzRmdLMVlvT3VhSUVlL0dqMlpMclJ3PVoeIhxnMjlLNnRNdDlYTWJMc3oyTFVnTUNlbSt6aEU9Zc6lw43CPgJgBRKtAQgJEqgBChxaUXVyS3Axdll4UUhaWGZWNUZLVzdQcSsyUk09EiQyNmZkYTgwOC04N2JiLTRkNTYtYmQ5Yi1hZjYwMjc5MTRlNDMYACAAKAAwnuaU4q4zOK73lOKuM0Cu95TirjNKHEVPRzRIeTgzaXczazhKSGZ5ZEEzL2hvU0UyMD1aHyIdvXdiSlhBc1BwczlRenZkdnZTU1A4RGxwdkN2WT1lAAAAAMI+AmAAEqwBCAcSpwEKHEFrL0xOVzV1bGd2OU5sWHFTMTR3VGcySEEvYz0SJDZkYWI5MGYwLTYwODYtNDJjMC1hMmNiLTM1YTJmYjk1MzNhORgAIAAoADCd5pTirjM4g/eU4q4zQIP3lOKuM0ocUGpMRkpkaDAxbnVxZktRS0g2TUtTT2s1blM4PVoeIhx6RjJkMG5MZWgzV2lDbVkwZnV4S3Rob0swRFU9ZQAAAADCPgJgABKsAQgIEqcBChxFei9xb0ZhQXczTVMzZHBaTmFTR1RZSUE1M3M9EiQ3NDQ3MjViNS1lODI4LTRkNjUtYjM0OS1mZGNiNTRlYzJlYTEYACAAKAAwy52f4q4zOK2nn+KuM0Ctp5/irjNKHFNBVkJ5NzZqdCtQRmMvdUdqWHlTRmFuak9GZz1aHiIcWXVJMVhjVU5iMENQK3lCeXJUZkZ3dUxRYy9jPWUAAAAAwj4CYAUSrQEIDhKoAQoceXJRSVBCK0V5VlgydHBOZWhwUDdSdEVOY0I0PRIkOGJjZmMxYTYtZWQ2NC00M2IzLTg3YTMtZjQxYTllN2UzYjYwGAAgACgAMJ+/95vHMzjeyqGYrzFA3sqhmK8xShxYRzF0NThmL1lCN3JIOWVRdzZUVGRZRE9JU1E9Wh8iHe91NlJWdUl0TVpWZ3pYb0szazNnWmU4dldtM2c9ZWLpsknCPgJgBRKMAQgCEocBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQzMGQyMmFiOS1hODk0LTVmZmUtYTMzYy05NDBjYzkwYzZhNTkYACAAKAAwwciI6ocxOODKiOqHMUDgyojqhzFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1lAAAAAMI+AmAAEqwBCBESpwEKHE5wSlg3Um0wNUJzenNkc2crSUprVFNUTUNkWT0SJDljMzVlN2YzLTA0NGUtNGY3Zi1iOTI2LWIxZDUzYjE2Y2MzMRgAIAAoADCu0Y7Q4zI4jNOO0OMyQIzTjtDjMkocUUpHaTBDTU1tbGlZTG5JVU04bGxmSVJ3MDBFPVoeIhxORFJMZ1A3ME9nckIrMzRrMzFLNGRRTllIMXc9ZQAAAADCPgJgBRKMAQgFEocBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiRiODFmMzIxNi0yNDUxLTUwN2MtODYxNy0yZGRmYzJlNjFkODQYACAAKAAwj4eT+aQzOI+Ik/mkM0CPiJP5pDNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1lAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
