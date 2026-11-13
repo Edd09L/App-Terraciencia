@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <base href="/">
+  <base href="$FLUTTER_BASE_HREF">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Terraciencia Inclusiva - Viaje espacial interactivo por las ciencias naturales para todos.">
+  <meta name="description"
+    content="Terraciencia Inclusiva - Viaje espacial interactivo por las ciencias naturales para todos.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,12 +25,13 @@
   </style>
   <script src="flutter.js" defer></script>
 </head>
+
 <body>
   <script>
-    window.addEventListener('load', function(ev) {
+    window.addEventListener('load', function (ev) {
       _flutter.loader.loadEntrypoint({
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine().then(function (appRunner) {
             appRunner.runApp();
           });
         }
@@ -36,16 +39,16 @@
     });
 
     // Funciones de Lector de Voz (TTS) integradas para accesibilidad
-    window.speakText = function(text) {
+    window.speakText = function (text) {
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel(); // Detener cualquier reproducción previa
-        
+
         var utterance = new SpeechSynthesisUtterance(text);
         utterance.lang = 'es-GT'; // Español (Guatemala) como preferencia principal
-        
+
         // Intentar encontrar una voz en español adecuada
         var voices = window.speechSynthesis.getVoices();
-        var esVoice = voices.find(function(voice) {
+        var esVoice = voices.find(function (voice) {
           return voice.lang === 'es-GT' || voice.lang.startsWith('es-');
         });
         if (esVoice) {
@@ -54,18 +57,19 @@
 
         utterance.pitch = 1.05; // Tono amigable
         utterance.rate = 0.85;  // Velocidad más lenta para facilitar la comprensión cognitiva
-        
+
         window.speechSynthesis.speak(utterance);
       } else {
         console.warn("La síntesis de voz no está soportada en este navegador.");
       }
     };
 
-    window.stopSpeaking = function() {
+    window.stopSpeaking = function () {
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
     };
   </script>
 </body>
+
 </html>
